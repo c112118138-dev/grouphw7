@@ -33,7 +33,7 @@
   - LoginID（登入紀錄編號，主鍵）  
   - EmployeeID（員工編號，外鍵 → Employee）  
   - LoginTime（登入時間）  
-  - LoginMethod（登入方式：密碼／指紋／臉部／語音）  
+  - LoginMethod（登入方式：密碼／QRcode）  
   - Result（結果：成功／失敗）  
   - FailCount（連續失敗次數）  
 
