@@ -1,3 +1,3 @@
-# CareSight 護理資訊系統 ERD
+# ERD
 
 ![](EDR.png)
